@@ -1,0 +1,10 @@
+{
+    "name": "Rock #5",
+    "description": "Gems are the mineral flowers.",
+    "animation_url":"https://rocks-nft-webglbuild.pages.dev/?id=5&shape=Moon&material=Blue&music=music-3",
+    "attributes": [
+        {"trait_type":"Shape","value":"Moon"},
+        {"trait_type":"Material","value":"Blue"},
+        {"trait_type":"Soul","value":"music-3"}
+    ]
+}

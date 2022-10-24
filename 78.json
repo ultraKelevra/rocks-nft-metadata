@@ -1,0 +1,10 @@
+{
+    "name": "Rock #78",
+    "description": "Gems are the mineral flowers.",
+    "animation_url":"https://rocks-nft-webglbuild.pages.dev/?id=78&shape=D6&material=Green&music=music-3",
+    "attributes": [
+        {"trait_type":"Shape","value":"D6"},
+        {"trait_type":"Material","value":"Green"},
+        {"trait_type":"Soul","value":"music-3"}
+    ]
+}

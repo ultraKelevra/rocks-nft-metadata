@@ -1,0 +1,10 @@
+{
+    "name": "Rock #41",
+    "description": "Gems are the mineral flowers.",
+    "animation_url":"https://rocks-nft-webglbuild.pages.dev/?id=41&shape=D10&material=Purple&music=music-3",
+    "attributes": [
+        {"trait_type":"Shape","value":"D10"},
+        {"trait_type":"Material","value":"Purple"},
+        {"trait_type":"Soul","value":"music-3"}
+    ]
+}
