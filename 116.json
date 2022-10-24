@@ -1,0 +1,10 @@
+{
+    "name": "Rock #116",
+    "description": "Gems are the mineral flowers.",
+    "animation_url":"https://rocks-nft-webglbuild.pages.dev/?id=116&shape=Dodecahedron&material=Green&music=music-1",
+    "attributes": [
+        {"trait_type":"Shape","value":"Dodecahedron"},
+        {"trait_type":"Material","value":"Green"},
+        {"trait_type":"Soul","value":"music-1"}
+    ]
+}

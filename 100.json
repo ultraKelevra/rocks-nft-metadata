@@ -1,0 +1,10 @@
+{
+    "name": "Rock #100",
+    "description": "Gems are the mineral flowers.",
+    "animation_url":"https://rocks-nft-webglbuild.pages.dev/?id=100&shape=Star&material=Blue&music=music-1",
+    "attributes": [
+        {"trait_type":"Shape","value":"Star"},
+        {"trait_type":"Material","value":"Blue"},
+        {"trait_type":"Soul","value":"music-1"}
+    ]
+}
