@@ -1,7 +1,7 @@
 {
     "name": "Rock #0",
     "description": "Gems are the mineral flowers.",
-    "animation_url":"https://ultrakelevra.github.io/ROCKS-webglbuild/?id=0&shape=D6&material=Blue&music=music-1",
+    "animation_url":"https://poopinggoblinz.com/?id=0&shape=D6&material=Blue&music=music-1",
     "attributes": [
         {"trait_type":"Shape","value":"D6"},
         {"trait_type":"Material","value":"Blue"},
